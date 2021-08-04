@@ -1,0 +1,28 @@
+header{
+   
+}
+footer{
+    background-color: rgb(206, 203, 203);
+   height: 6em;
+}
+
+h1{
+    color:blue;
+    text-align:center;
+    position: relative;
+   top: 22px;
+}
+#entete{
+   
+   background-color: rgb(206, 203, 203);
+   height: 6em;
+   position: relative;
+   top: 6px;
+}
+
+#foot{
+    color:blue;
+    text-align:center;
+    position: relative;
+   top: 28px;
+}
