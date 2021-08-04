@@ -46,3 +46,5 @@ email.addEventListener('change',function(e){
     e.target.parentElement.appendChild(div);
   //fin de verification du champ nom  
 });
+//fin de verification du champ nom  
+//fin de verification du champ nom  
